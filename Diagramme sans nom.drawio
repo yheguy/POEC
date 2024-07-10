@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:36:23.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JjE5YNC1-p3qVJZ7r2Y4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T08:00:34.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="G76is7uONnlzsxFu7tw7" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
     <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,32 +22,77 @@
         <mxCell id="q8BLech53V7XYQDHPa9J-6" value="Gestion des risques et conformité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="590" y="50" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-8" value="Création de contenu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-8" value="Création de contenu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="95" y="170" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-9" value="Gestion des influenceur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-9" value="Gestion des influenceur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="343" y="170" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-10" value="Gestion des campagnes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-10" value="Gestion des campagnes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="595" y="170" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-11" value="Recherche et sélection d&#39;influenceurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-11" value="Recherche et sélection d&#39;influenceurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="95" y="260" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-12" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-12" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="343" y="260" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-13" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-13" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="595" y="260" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-14" value="Support &amp;amp; formation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-14" value="Support technique" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="93" y="400" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-15" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-15" value="Gestion comptable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="341" y="400" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-16" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-16" value="Formations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="593" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-17" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Processus de &quot;management&quot;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="760" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-18" value="Gestion des ressources humaines&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="610" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-19" value="Planification stratégique" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="338" y="610" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-20" value="Gestion des risques et conformité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-21" value="Recrutement et onboarding" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="660" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-22" value="Gestion des performances" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="710" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-23" value="Formation et développement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="760" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-24" value="Gestion&amp;nbsp;&lt;div&gt;administrative&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="95" y="810" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-25" value="&amp;nbsp; &amp;nbsp;Fixation des o&lt;span style=&quot;background-color: initial;&quot;&gt;bjectifs&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;stratégiques&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="660" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-26" value="Allocation des ressources" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="710" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-27" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;Suivi et ajustement&lt;/div&gt;&lt;div&gt;de la stratégie&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="760" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-28" value="Identification &amp;amp;&amp;nbsp;&lt;div&gt;évaluation&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;des risques&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="597.25" y="660" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-29" value="Planification de la&amp;nbsp;&lt;div&gt;réponse aux risques&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="597.25" y="710" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-30" value="Surveillance et&amp;nbsp;&lt;div&gt;contrôle des risques&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="597.25" y="760" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-31" value="Conformité légale&lt;div&gt;et réglementaire&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="595.75" y="810" width="137" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
