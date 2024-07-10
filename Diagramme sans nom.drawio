@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T09:43:43.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QHSWsPsZZJvHuIT822zS" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T12:02:03.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L6tJicRSSrPqk3h4KpK8" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
     <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,28 +95,121 @@
           <mxGeometry x="595.75" y="810" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-32" value="Processus &quot;opérationnel&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="36" y="900" width="760" height="680" as="geometry" />
+          <mxGeometry x="36" y="900" width="760" height="520" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-33" value="Création de contenu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="91" y="940" width="150" height="240" as="geometry" />
+          <mxGeometry x="91" y="940" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-34" value="Gestion des influenceur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="339" y="940" width="150" height="60" as="geometry" />
+        <mxCell id="q8BLech53V7XYQDHPa9J-34" value="Gestion des influenceur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="339" y="940" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-35" value="Gestion des campagnes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="591" y="940" width="150" height="60" as="geometry" />
+        <mxCell id="q8BLech53V7XYQDHPa9J-35" value="Gestion des campagnes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="591" y="940" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-36" value="Recherche et sélection d&#39;influenceurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="91" y="1270" width="150" height="60" as="geometry" />
+        <mxCell id="q8BLech53V7XYQDHPa9J-36" value="Recherche et sélection d&#39;influenceurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="93" y="1180" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-37" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="339" y="1270" width="150" height="60" as="geometry" />
+        <mxCell id="q8BLech53V7XYQDHPa9J-37" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1180" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-38" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="591" y="1270" width="150" height="60" as="geometry" />
+        <mxCell id="q8BLech53V7XYQDHPa9J-38" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="593" y="1180" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-39" value="Recrutement et onboarding" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-39" value="Briefing de&amp;nbsp;&lt;div&gt;contenu&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="980" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-40" value="Production de&amp;nbsp;&lt;div&gt;contenu&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="99.5" y="1030" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-41" value="Validation et&amp;nbsp;&lt;div&gt;approbation&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="1080" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8BLech53V7XYQDHPa9J-33" target="q8BLech53V7XYQDHPa9J-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-43" value="Recrutements" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="346" y="980" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-44" value="&lt;div&gt;Gérer les&amp;nbsp;&lt;/div&gt;&lt;div&gt;partenariats&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1030" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-45" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Suivi de la&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;perfor-&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;mance des Influenceurs&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1080" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-46" value="Planification des campagnes&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="980" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-47" value="&lt;div&gt;Modification des campagnes&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="1030" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-48" value="&lt;div&gt;Rapport et analyse&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="596.5" y="1080" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-49" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="1220" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-50" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="1270" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-51" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="1320" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-52" value="Collecte de&amp;nbsp;&lt;div&gt;données&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1220" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-53" value="&lt;div&gt;Analyse de&amp;nbsp;&lt;/div&gt;&lt;div&gt;performance&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1270" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-54" value="&lt;div&gt;Génération de&amp;nbsp;&lt;/div&gt;&lt;div&gt;rapports&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1320" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-55" value="Onboarding des&amp;nbsp;&lt;div&gt;clients&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="1220" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-56" value="&lt;div&gt;Suivi et Fidélisation&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="1270" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-57" value="&lt;div&gt;Prospection&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="1320" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-58" value="Processus &quot;support&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1440" width="760" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-59" value="Support technique" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="93" y="1480" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-60" value="Gestion comptable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1480" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-61" value="Formations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="593" y="1480" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-62" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="1520" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-63" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="1570" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-64" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="1620" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-65" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="1520" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-66" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="1570" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-67" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="1620" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-68" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="1520" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-69" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="1570" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-70" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="1620" width="137" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
