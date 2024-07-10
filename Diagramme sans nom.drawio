@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:21:26.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GWKJ8T4-aR_fVCnGZW8q" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:36:23.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JjE5YNC1-p3qVJZ7r2Y4" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
     <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,41 @@
         <mxCell id="q8BLech53V7XYQDHPa9J-3" value="Processus &quot;opérationnel&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="130" width="760" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="50" width="150" height="60" as="geometry" />
+        <mxCell id="q8BLech53V7XYQDHPa9J-4" value="Gestion des ressources humaines&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-5" value="Planification stratégique" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="338" y="50" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-6" value="Gestion des risques et conformité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-8" value="Création de contenu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="95" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-9" value="Gestion des influenceur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="343" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-10" value="Gestion des campagnes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="595" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-11" value="Recherche et sélection d&#39;influenceurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="95" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-12" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="343" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-13" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="595" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-14" value="Support &amp;amp; formation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="93" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-15" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="341" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-16" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="593" y="400" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
