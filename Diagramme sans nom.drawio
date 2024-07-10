@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T12:02:03.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L6tJicRSSrPqk3h4KpK8" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T12:43:15.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ahr8q3Vd2GvO8x4-mEQb" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
     <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,10 +202,10 @@
         <mxCell id="q8BLech53V7XYQDHPa9J-67" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="1620" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-68" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-68" value="Documentation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="1520" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-69" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-69" value="&lt;div&gt;Formation vidéo&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="1570" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-70" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
