@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T08:00:34.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="G76is7uONnlzsxFu7tw7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T09:43:43.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QHSWsPsZZJvHuIT822zS" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
     <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,30 @@
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-31" value="Conformité légale&lt;div&gt;et réglementaire&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="595.75" y="810" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-32" value="Processus &quot;opérationnel&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="36" y="900" width="760" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-33" value="Création de contenu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="91" y="940" width="150" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-34" value="Gestion des influenceur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="339" y="940" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-35" value="Gestion des campagnes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="591" y="940" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-36" value="Recherche et sélection d&#39;influenceurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="91" y="1270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-37" value="Analyse des données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="339" y="1270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-38" value="Gestion des clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="591" y="1270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8BLech53V7XYQDHPa9J-39" value="Recrutement et onboarding" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="99.5" y="980" width="137" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
