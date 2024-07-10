@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T12:43:15.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ahr8q3Vd2GvO8x4-mEQb" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T13:01:54.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1mpbkaBLhNDy-f8I6ZgZ" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
-    <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="40" y="560" width="760" height="330" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-18" value="Gestion des ressources humaines&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="610" width="150" height="260" as="geometry" />
+          <mxGeometry x="90" y="610" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-19" value="Planification stratégique" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="338" y="610" width="150" height="210" as="geometry" />
@@ -61,17 +61,11 @@
         <mxCell id="q8BLech53V7XYQDHPa9J-20" value="Gestion des risques et conformité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="590" y="610" width="150" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-21" value="Recrutement et onboarding" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-21" value="Recrutement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="96.5" y="660" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-22" value="Gestion des performances" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-22" value="Suivie des&amp;nbsp;&lt;div&gt;équipes&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="96.5" y="710" width="137" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-23" value="Formation et développement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="96.5" y="760" width="137" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-24" value="Gestion&amp;nbsp;&lt;div&gt;administrative&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="95" y="810" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-25" value="&amp;nbsp; &amp;nbsp;Fixation des o&lt;span style=&quot;background-color: initial;&quot;&gt;bjectifs&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;stratégiques&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="344.5" y="660" width="137" height="40" as="geometry" />
@@ -130,7 +124,7 @@
         <mxCell id="q8BLech53V7XYQDHPa9J-43" value="Recrutements" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="346" y="980" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-44" value="&lt;div&gt;Gérer les&amp;nbsp;&lt;/div&gt;&lt;div&gt;partenariats&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-44" value="&lt;div&gt;Trouver des&amp;nbsp;&lt;/div&gt;&lt;div&gt;partenariats&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="346" y="1030" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-45" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Suivi de la&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;perfor-&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;mance des Influenceurs&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=10;" vertex="1" parent="1">
@@ -179,37 +173,31 @@
           <mxGeometry x="93" y="1480" width="150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-60" value="Gestion comptable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1480" width="150" height="200" as="geometry" />
+          <mxGeometry x="341" y="1480" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="q8BLech53V7XYQDHPa9J-61" value="Formations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="593" y="1480" width="150" height="200" as="geometry" />
+          <mxGeometry x="593" y="1480" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-62" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-62" value="Assistance aux utilisateurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="1520" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-63" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-63" value="&lt;div&gt;Gestion des&amp;nbsp;&lt;/div&gt;&lt;div&gt;incidents&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="1570" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-64" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-64" value="&lt;div&gt;Maintenance et&amp;nbsp;&lt;/div&gt;&lt;div&gt;mises à jour&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="96.5" y="1620" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-65" value="Identification des influenceurs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-65" value="Comptabilité&amp;nbsp;&lt;div&gt;générale&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="348.5" y="1520" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-66" value="&lt;div&gt;Qualification des influenceurs&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-66" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Facturation&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="348.5" y="1570" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-67" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="346.5" y="1620" width="137" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-68" value="Documentation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-68" value="Formation des&amp;nbsp;&lt;div&gt;employés&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="1520" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-69" value="&lt;div&gt;Formation vidéo&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="q8BLech53V7XYQDHPa9J-69" value="Évaluation et&amp;nbsp;&lt;div&gt;certification&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="1570" width="137" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q8BLech53V7XYQDHPa9J-70" value="&lt;div&gt;Intégration en DB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23.5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="600.5" y="1620" width="137" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
