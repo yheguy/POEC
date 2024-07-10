@@ -1,23 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T13:54:15.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Pc1ZFEPAC8ap69t62nSw" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T14:24:35.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0IuGRhR_YLMhqbgBOmBc" version="24.6.4" type="github">
   <diagram name="Page-1" id="a8g_Bn_f8ZfWW0NUp3vt">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_UuhSJLFBYa4HCA_elFi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="90" y="10" width="630" height="380" as="geometry" />
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-1" value="Processus &quot;opérationnel&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="640" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_UuhSJLFBYa4HCA_elFi-2" value="Admission" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UuhSJLFBYa4HCA_elFi-3" value="Consultation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UuhSJLFBYa4HCA_elFi-4" value="Suivi médical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UuhSJLFBYa4HCA_elFi-5" value="Sortie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-6" value="Gestion des&amp;nbsp;&lt;div&gt;données médical&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-7" value="Processus &quot;support&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="640" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-8" value="Comptabilité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-9" value="Stock médicament" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-10" value="Processus de &quot;management&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-120" width="640" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-11" value="Suivi qualité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-12" value="RH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-13" value="Processus &quot;opérationnel&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="92" y="780" width="640" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-14" value="Admission" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="162" y="850" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-15" value="Consultation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="352" y="850" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-16" value="Suivi médical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="542" y="850" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-17" value="Sortie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1070" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-18" value="Gestion des&amp;nbsp;&lt;div&gt;données médical&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="356" y="1070" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-19" value="Processus de &quot;management&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="92" y="500" width="640" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-20" value="Suivi qualité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="352" y="540" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-22" value="processus &quot;support&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="96" y="1310" width="640" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-23" value="Comptabilité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="146" y="1340" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-24" value="Stock médicament" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="356" y="1340" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-25" value="RH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="566" y="1340" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-26" value="Enregistrement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="162" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-28" value="Pré orientation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="162" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-30" value="RDV" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="162" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-31" value="Diagnostique" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="352" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-32" value="Soins" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="352" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-33" value="Prescription" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="352" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-35" value="Suivi du patient" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="542" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-36" value="Plannification du&amp;nbsp;&lt;div&gt;suivi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="542" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-40" value="MAJ historique&lt;div&gt;médical&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="356" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-42" value="Stockage de données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-43" value="Stockage de données" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1070" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-44" value="Sécuriser" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-45" value="Résumé de sortie" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-46" value="Instruction post traitement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_UuhSJLFBYa4HCA_elFi-13" target="_UuhSJLFBYa4HCA_elFi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-49" value="Facturation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="146" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-50" value="Suivi des stocks" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="356" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-51" value="Satisfaction client" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="352" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-52" value="&amp;nbsp; &amp;nbsp;Suivi de la qualité&amp;nbsp;&lt;div&gt;des soin&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Satisfaction%20client%22%20style%3D%22shape%3Dparallelogram%3Bperimeter%3DparallelogramPerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3BfillColor%3D%236d8764%3BstrokeColor%3D%233A5431%3BfontColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22550%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;s&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="352" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UuhSJLFBYa4HCA_elFi-53" value="Statistique" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="352" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
