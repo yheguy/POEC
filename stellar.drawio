@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T18:04:01.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T_g5Sh3Yo7AaW4kUG3WP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T18:27:34.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BPfjPygDippAFTyvlb6b" version="24.6.4" type="github">
   <diagram name="Page-1" id="iGI9gvBIAFvF1aFVwaXv">
     <mxGraphModel dx="993" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,6 +300,12 @@
         </mxCell>
         <mxCell id="BTkJqWCC1S_C7WFAOdsc-27" value="&lt;ul&gt;&lt;li&gt;Choix influenceurs&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Statistique sur les influenceur&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Gérer des campagnes&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Statistique sur les campagnes&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="667" y="1970" width="203" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BTkJqWCC1S_C7WFAOdsc-28" value="USER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="99.5" y="2338" width="30" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BTkJqWCC1S_C7WFAOdsc-29" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="518" y="2338" width="32" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
